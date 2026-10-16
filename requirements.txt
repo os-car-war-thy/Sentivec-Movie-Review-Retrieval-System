@@ -1,0 +1,3 @@
+# Install the project, including model/notebook dependencies, from this checkout.
+# Direct dependency versions live in pyproject.toml to avoid conflicting lists.
+-e .[research,dev]

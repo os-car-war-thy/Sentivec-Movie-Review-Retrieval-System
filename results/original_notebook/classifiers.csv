@@ -1,0 +1,4 @@
+classifier,accuracy,precision,recall,f1,avg_confidence,avg_latency_ms,std_latency_ms
+DistilBERT,0.902,0.8889,0.8929,0.8909,0.9730,353.2393,256.4565
+VADER,0.660,0.5833,0.8438,0.6898,0.9200,3.2711,5.5856
+TextBlob,0.650,0.5643,0.9598,0.7107,0.1571,1.4897,2.2744

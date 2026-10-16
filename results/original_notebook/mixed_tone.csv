@@ -1,0 +1,4 @@
+classifier,correct,num_examples,accuracy
+DistilBERT,7,8,0.875
+VADER,5,8,0.625
+TextBlob,3,8,0.375

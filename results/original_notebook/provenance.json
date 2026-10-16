@@ -1,0 +1,14 @@
+{
+  "source_notebook": "Enhanced_SentiVec_with_Reviews_Addressed.ipynb",
+  "source_sha256": "ca1428fdd22b7ac9df354d5c95e1640fbcdeeeb4c9f26987a4d217726433aadc",
+  "source_cells_zero_based": {
+    "retrieval": 25,
+    "classifiers": 16,
+    "thresholds": 14,
+    "mixed_tone": 18
+  },
+  "extraction": "Read notebook JSON and existing text outputs; no code execution.",
+  "status": "Previously saved results, not independently reproduced.",
+  "new_implementation_results": false,
+  "note": "Printed precision retained. Retrieval uses the final duplicate evaluation cell."
+}

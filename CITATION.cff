@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the exact commit and the datasets/models used in your experiment."
+title: "SentiVec: Reproducible Sentiment-Aware Review Retrieval"
+type: software
+version: 0.1.0
+authors:
+  - name: "SentiVec contributors"
+license: MIT

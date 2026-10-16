@@ -1,0 +1,39 @@
+# Private submission materials supplied for this review (preserved locally).
+/Initial submission.pdf
+/Reviews.txt
+/Enhanced_SentiVec_with_Reviews_Addressed.ipynb
+
+# Data, downloaded weights, credentials, and generated research artifacts.
+/data/*
+!/data/README.md
+/outputs/
+/cache/
+/models/
+/.env
+/.env.*
+!/.env.example
+**/kaggle.json
+*.safetensors
+*.pt
+*.pth
+*.index
+*.npy
+*.npz
+
+# Python and editors.
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+build/
+dist/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
